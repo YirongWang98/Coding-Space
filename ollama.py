@@ -24,19 +24,6 @@ model_selection = st.sidebar.selectbox(
     (
         'llama2:latest',
         'llama2-uncensored:latest',
-        'codeup:latest',
-        'codeup:13b',
-        'codeup:13b-llama2',
-        'nous-hermes:latest',
-        'vicuna:latest',
-        'wizard-math:latest',
-        'wizard-vicuna:latest',
-        'wizard-vicuna-uncensored:latest',
-        'wizardlm:latest',
-        'wizardlm-uncensored:latest',
-        'stable-beluga:latest',
-        'open-orca-platypus2:latest',
-        'everythinglm:latest'
     )
 )
 
